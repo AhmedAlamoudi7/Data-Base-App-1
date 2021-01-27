@@ -5,4 +5,4 @@ What Do You Want To Do ?
 "a" => Add New Information
 "d" => Delete items in DataBase
 "u" => Update itemes in DataBase
-"q" => Quit The App
+"q" => Quit The App.
